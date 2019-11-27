@@ -49,7 +49,7 @@ while computer_BO3_score < 3 and player_BO3_score < 3:
 if player_BO3_score == 3:
     print("Oh damn, you won the game!  Aint dat some shit.")
 else:
-    print("Jesus, you lost the game?  Try again like your momma taught you right.")
+    print("You lost the game?  Try again like yo momma taught you right.")
 
 # Print out results of the game to console
 # Reset the computers choice to another random selection
